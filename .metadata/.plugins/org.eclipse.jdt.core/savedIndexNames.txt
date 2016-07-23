@@ -12,7 +12,6 @@ INDEX VERSION 1.129+C:\Users\LarsonCo\Black-Jack\.metadata\.plugins\org.eclipse.
 2809250744.index
 2800558102.index
 2019903893.index
-366666776.index
 781808.index
 414978335.index
 1644702904.index
